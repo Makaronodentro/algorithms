@@ -1,9 +1,11 @@
-package QueuesDeques;
+package queuesDeques;
+
+import java.util.Iterator;
 
 /**
  * Created by Makaronodentro on 30/11/2015.
  */
-public class Deque<Item> implements Iterable<Item> {
+/*public class Deque<Item> implements Iterable<Item> {
     // construct an empty deque
     public Deque(){
 

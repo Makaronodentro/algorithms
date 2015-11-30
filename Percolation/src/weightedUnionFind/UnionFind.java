@@ -1,4 +1,4 @@
-package WeightedUnionFind;
+package weightedUnionFind;
 
 /**
  * Created by Makaronodentro on 27/11/2015.

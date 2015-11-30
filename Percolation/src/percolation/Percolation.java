@@ -1,10 +1,10 @@
-package Percolation;
+package percolation;
 
 /**
  * Created by Makaronodentro on 27/11/2015.
  */
 
-import WeightedUnionFind.UnionFind;
+import weightedUnionFind.UnionFind;
 
 public class Percolation {
 

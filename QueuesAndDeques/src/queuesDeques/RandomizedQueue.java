@@ -1,9 +1,11 @@
-package QueuesDeques;
+/*package queuesDeques;
+
+import java.util.Iterator;
 
 /**
  * Created by Makaronodentro on 30/11/2015.
  */
-public class RandomizedQueue<Item> implements Iterable<Item> {
+/*public class RandomizedQueue<Item> implements Iterable<Item> {
 
     // construct an empty randomized queue
     public RandomizedQueue(){
@@ -46,3 +48,4 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
     }
 }
 
+*/
